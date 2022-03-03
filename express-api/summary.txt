@@ -1,0 +1,1 @@
+The lab experiance was very helpful in understanding the process of creating an API, which would be very helpful for the bot project. I loved how the instructions was very detailed for both implementation and understanding of the material. There weren't any problems that occured in the process of completed this lab.
